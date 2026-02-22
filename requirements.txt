@@ -1,0 +1,6 @@
+numpy
+scipy
+matplotlib
+Pillow
+opencv-python
+# matlab.engine
